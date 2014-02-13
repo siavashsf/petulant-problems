@@ -28,6 +28,7 @@ int Number[10][5] =
 int row = 0;
 int column = 0;
 
+
 void print_LCD(char** res) {
   //  cout << row << column;
   for (int i=0; i < row; ++i) {
